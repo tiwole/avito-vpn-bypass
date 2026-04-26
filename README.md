@@ -15,7 +15,7 @@ This script:
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser
-2. Click **[Install Script](https://raw.githubusercontent.com/tiwole/avito-vpn-bypass/main/avito-vpn-bypass.user.js)**
+2. Click **[Install Script](https://raw.githubusercontent.com/tiwole/avito-vpn-bypass/main/avito-vpn-bypass-1.0.user.js)**
 3. Confirm installation in Tampermonkey
 
 ## Usage
